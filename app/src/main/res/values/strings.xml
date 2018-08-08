@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dater</string>
+
+
+    <!--input-->
+    <string name="input_hint_title">Date</string>
+</resources>
